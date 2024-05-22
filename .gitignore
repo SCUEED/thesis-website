@@ -1,0 +1,4 @@
+node_modules/
+backend/__pycache__
+backend/crack_classifier_model_final.h5
+backend/crack_detection_vgg16_model.h5
